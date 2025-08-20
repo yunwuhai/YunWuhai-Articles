@@ -1,8 +1,9 @@
 ---
 分类: [解决方案]
-tags: [CCS, MSP430, MSP432, BSL]
-license: CC-BY-SA 4.0
+标签: [CCS, MSP430, MSP432, BSL]
+知识共享许可协议: CC-BY-SA 4.0
 备注: 本文首发于CSDN，原文：https://blog.csdn.net/qq_44884716/article/details/108282347
+时间: 2020-08-28 16:34:57
 ---
 
 # 使用 CCS 导出 TXT 用于 BSL 烧录

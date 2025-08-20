@@ -1,8 +1,9 @@
 ---
 分类: [解决方案]
-tags: [Arduino, Bootloader, STM32]
-license: CC-BY-SA 4.0
+标签: [Arduino, Bootloader, STM32]
+知识共享许可协议: CC-BY-SA 4.0
 备注: 本文首发于CSDN，原文：https://blog.csdn.net/qq_44884716/article/details/107898812
+时间: 2020-08-09 19:51:21
 ---
 
 # Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法

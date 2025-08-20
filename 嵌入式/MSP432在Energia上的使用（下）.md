@@ -1,8 +1,9 @@
 ---
 分类: [嵌入式]
-tags: [Arduino, MSP432, Energia]
-license: CC-BY-SA 4.0
+标签: [Arduino, MSP432, Energia]
+知识共享许可协议: CC-BY-SA 4.0
 备注: 本文首发于CSDN，原文：https://blog.csdn.net/qq_44884716/article/details/109551240
+时间: 2020-11-07 19:46:09
 ---
 
 # MSP432 在 Energia 上的使用（下）

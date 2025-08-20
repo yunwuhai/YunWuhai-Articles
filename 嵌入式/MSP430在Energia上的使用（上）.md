@@ -1,8 +1,9 @@
 ---
 分类: [嵌入式]
-tags: [Arduino, MSP430, Energia]
-license: CC-BY-SA 4.0
+标签: [Arduino, MSP430, Energia]
+知识共享许可协议: CC-BY-SA 4.0
 备注: 本文首发于CSDN，原文：https://blog.csdn.net/qq_44884716/article/details/108244072
+时间: 2020-08-26 17:32:10
 ---
 
 # MSP430 在 Energia 上的使用（上）
