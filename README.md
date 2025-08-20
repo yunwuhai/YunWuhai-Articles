@@ -14,6 +14,9 @@
 
 ### 嵌入式
 
+- [MSP430 在 Energia 上的使用（上）](./嵌入式/MSP430在Energia上的使用（上）.md)
+- [MSP432 在 Energia 上的使用（下）](./嵌入式/MSP432在Energia上的使用（下）.md)
+
 ### 桌面端
 
 ### 网络安全
@@ -23,6 +26,8 @@
 ### 解决方案
 
 - [Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法](./解决方案/Arduino通过USB转TTL无BootLoader（引导程序）烧录程序的两种办法.md)
+- [3D 打印机打印中途停止且显示挤出头温度过低](./解决方案/3D打印机打印中途停止且显示挤出头温度过低.md)
+- [使用 CCS 导出 TXT 用于 BSL 烧录](./解决方案/使用CCS导出TXT用于BSL烧录.md)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-分类: [嵌入式]
+分类: [解决方案]
 tags: [Arduino, Bootloader, STM32]
 license: CC-BY-SA 4.0
 备注: 本文首发于CSDN，原文：https://blog.csdn.net/qq_44884716/article/details/107898812
