@@ -16,6 +16,7 @@
 
 - [MSP430 在 Energia 上的使用（上）](./嵌入式/MSP430在Energia上的使用（上）.md)
 - [MSP432 在 Energia 上的使用（下）](./嵌入式/MSP432在Energia上的使用（下）.md)
+- [三极管（BJT）与场效应管（FET）的比较](./嵌入式/三极管（BJT）与场效应管（FET）的比较.md)
 
 ### 桌面端
 
