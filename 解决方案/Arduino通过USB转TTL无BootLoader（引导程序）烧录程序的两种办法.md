@@ -1,10 +1,8 @@
 ---
-title: Arduino通过USB转TTL无BootLoader（引导程序）烧录程序的两种办法
-date: 2020-08-09 19:51:21
-categories: [嵌入式]
+分类: [嵌入式]
 tags: [Arduino, Bootloader, STM32]
 license: CC-BY-SA 4.0
-note: 本文首发于CSDN，[原文链接](https://blog.csdn.net/qq_44884716/article/details/107898812)。
+备注: 本文首发于CSDN，原文：https://blog.csdn.net/qq_44884716/article/details/107898812
 ---
 
 # Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法
