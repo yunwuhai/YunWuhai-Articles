@@ -1,15 +1,15 @@
 ---
-title:README
-date:2025-08-20 22:29:43
+title: 阅读说明
+date: 2025-08-20 22:29:43
 tags:
-- README
+  - README
 categories:
-- 说明
+  - 说明
 ---
 
 # YunWuhai-Articles
 
- [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## 简介
 
@@ -29,12 +29,6 @@ categories:
 
 ### 解决方案
 
-
-
-
-
-
-
 ---
 
 ## 开源协议
@@ -46,4 +40,3 @@ categories:
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
