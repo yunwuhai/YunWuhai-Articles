@@ -1,13 +1,4 @@
----
-title: 阅读说明
-date: 2025-08-20 22:29:43
-tags:
-  - README
-categories:
-  - 说明
----
-
-# YunWuhai-Articles
+# 云雾海的个人笔记
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
