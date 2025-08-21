@@ -10,6 +10,23 @@
 
 说实话我也不确定会不会有后面的笔记，但是这次实验的确相当于没有做完。
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [MSP430 在 Energia 上的使用（上）](#msp430-在-energia-上的使用上)
+  - [准备工作](#准备工作)
+  - [问题意义](#问题意义)
+  - [实验一：测试传输接口](#实验一测试传输接口)
+    - [实验现象：](#实验现象)
+    - [实验结论：](#实验结论)
+  - [实验二：移植到 ArduinoIDE](#实验二移植到-arduinoide)
+  - [备注](#备注)
+
+<!-- /code_chunk_output -->
+
+
+
 ## 准备工作
 
 终于狠下心花了百元大洋买了块 MSP430F5529LP 板子，准备研究一下板载仿真器在 Energia 中是如何进行烧录的。

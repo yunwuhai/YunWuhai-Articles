@@ -8,6 +8,20 @@
 
 # Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法](#arduino-通过-usb-转-ttl-无-bootloader引导程序烧录程序的两种办法)
+  - [注意](#注意)
+  - [于 BootLoader 的废话](#于-bootloader-的废话)
+  - [通过 ArduinoIDE 的 Serial 模式烧录](#通过-arduinoide-的-serial-模式烧录)
+  - [通过二进制文件烧录](#通过二进制文件烧录)
+  - [总结](#总结)
+
+<!-- /code_chunk_output -->
+
+
 ## 注意
 
 （这个实验室基于 stm32duino 的，avr 单片机并不直接通用，不过如果你准备尝试使用串口来给 avr 单片机（_就是 Arduino 官方出的几款 Arduino_）烧录 Arduino 的 BootLoader，建议直接放弃因为 avr 单片机并不支持直接使用串口上传程序，而且 Arduino 的 BootLoader 好像目的也就是让 Arduino 能够直接串口烧录程序。

@@ -10,6 +10,20 @@
 
 _其实我自己都没想到我居然会来填坑，不过说实话这好像也算不上填坑，毕竟之前在[MSP430 在 Energia 上的使用（上）](https://blog.csdn.net/qq_44884716/article/details/108244072)这个帖子里讲的是 MSP430，而且说的准备在 VSCode 里装 Energia 其实到现在还没弄，不过这里还是想介绍一下 Energia 的另一项功能，一个专属于 MSP432 的功能。_
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [MSP432 在 Energia 上的使用（下）](#msp432-在-energia-上的使用下)
+  - [发现](#发现)
+  - [使用方法](#使用方法)
+      - [TASK1](#task1)
+      - [TASK2](#task2)
+      - [TASK3](#task3)
+
+<!-- /code_chunk_output -->
+
+
 ## 发现
 
 事实证明多看官网还是有好处的，之前我在使用 Energia 对 MSP430 进行编程时一直非常疑惑，为什么 TI 公司不直接使用 Arduino 已有的 IDE 而非要做个自己的 Energia 导致不为人知非常冷门，但是官网上的介绍回答了我这一点。打开[Energia 官网](https://energia.nu/)，进入 Guide 界面，翻阅一下可以看见一个名词——**MultiTasking**，即多任务。众所周知如果单片机想要实现多任务并行，一般需要自己搭建 RTOS 或者更复杂一点进行专门的时分复用设计，这些方法往往需要较丰富的知识才能实现。而 Energia 就可以非常简单地（其实如果进行一些复杂操作也是挺复杂的）实现多任务操作。而官网在这里其实也给出了关于 Multitasking 的[介绍](https://energia.nu/guide/foundations/programming_technique/multitasking/)，值得注意的是**目前该功能只能作用与 MSP432，MSP432E，CC3320 和 CC1310**几种芯片，这也是为什么我把这一章名字改成了 MSP432 而不是 MSP430。（说起来每次打开 Energia 它的启动显示里面也写到了 Energia MT，实际上就是说的这个功能，不过我一直没咋注意）
@@ -56,7 +70,7 @@ void loopGreenLed() {
 }
 ```
 
-#### Task3
+#### TASK3
 
 ```C++
 #define LED RED_LED

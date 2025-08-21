@@ -1,14 +1,32 @@
 # 云雾海的个人笔记
 
+**作者: 云雾海 / yunwuhai**
+**邮箱: yunwuhai@outlook.com**
+**发布仓库：[github](https://github.com/yunwuhai/YunWuhai-Articles)**
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [云雾海的个人笔记](#云雾海的个人笔记)
+  - [简介](#简介)
+  - [分类](#分类)
+    - [嵌入式](#嵌入式)
+    - [桌面端](#桌面端)
+    - [网络安全](#网络安全)
+    - [杂谈](#杂谈)
+    - [解决方案](#解决方案)
+  - [开源协议](#开源协议)
+
+<!-- /code_chunk_output -->
+
 ## 简介
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 这个仓库用于存放本人平常的文章笔记，因为嫌麻烦，我没有弄成网页或者博客，直接以仓库的形式进行存储。
 
 文章笔记主要是个人在学习开发过程中进行的一些记录，不保证内容实现的准确性和一致性，请酌情参考。
-
-部分文章首发于 CSDN ，可以访问[我的主页](https://blog.csdn.net/qq_44884716)查看。
 
 ## 分类
 
@@ -26,7 +44,11 @@
 
 ### 杂谈
 
+*杂谈内容不涉及具体的技术，主要是一些个人的感悟、心得体会，或是一些有趣的事情。*
+
 ### 解决方案
+
+*解决方案为作者开发学习过程中遇到的一些问题，在解决了该问题后进行的笔记记录，内容仅适用于解决特定问题。*
 
 - [Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法](./解决方案/Arduino通过USB转TTL无BootLoader（引导程序）烧录程序的两种办法.md)
 - [3D 打印机打印中途停止且显示挤出头温度过低](./解决方案/3D打印机打印中途停止且显示挤出头温度过低.md)
@@ -36,7 +58,7 @@
 
 ## 开源协议
 
-本仓库采用[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]协议进行授权
+本仓库所有笔记均为原创，采用[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]协议进行授权，部分文章首发于 CSDN ，可以访问[我的主页](https://blog.csdn.net/qq_44884716)查看。
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
