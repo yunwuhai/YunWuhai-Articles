@@ -19,9 +19,13 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
   - [简介](#简介)
   - [分类](#分类)
     - [嵌入式](#嵌入式)
+      - [Arduino](#arduino)
+      - [C/C++](#cc)
+      - [硬件设计](#硬件设计)
     - [桌面端](#桌面端)
     - [网络安全](#网络安全)
     - [算法](#算法)
+      - [自制脚本语言](#自制脚本语言)
     - [杂谈](#杂谈)
     - [解决方案](#解决方案)
   - [开源协议](#开源协议)
@@ -39,15 +43,23 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 
 ### 嵌入式
 
-- [MSP430 在 Energia 上的使用（上）](./嵌入式/MSP430在Energia上的使用（上）.md)
-- [MSP432 在 Energia 上的使用（下）](./嵌入式/MSP432在Energia上的使用（下）.md)
-- [三极管（BJT）与场效应管（FET）的比较](./嵌入式/三极管（BJT）与场效应管（FET）的比较.md)
-- [C 和 C++ 在参数调用上的区别](./嵌入式/C和C++在参数调用上的区别.md)
-- [如何使用 KiCAD 画扩展板](./嵌入式/如何使用KiCAD画扩展板.md)
-- [C 的 main 函数解析](./嵌入式/C的main函数解析.md)
-- [malloc 的强制转换](./嵌入式/malloc的强制转换.md)
-- [Arduino 极速入门教程——两篇文章让你会用Arduino(上)](./嵌入式/Arduino极速入门教程——两篇文章让你会用Arduino（上）.md)
-- [Arduino 极速入门教程——两篇文章让你会用Arduino(下)](./嵌入式/Arduino极速入门教程——两篇文章让你会用Arduino（下）.md)
+#### Arduino
+
+- [MSP430 在 Energia 上的使用（上）](./嵌入式/Arduino/MSP430在Energia上的使用（上）.md)
+- [MSP432 在 Energia 上的使用（下）](./嵌入式/Arduino/MSP432在Energia上的使用（下）.md)
+- [Arduino 极速入门教程——两篇文章让你会用Arduino(上)](./嵌入式/Arduino/Arduino极速入门教程——两篇文章让你会用Arduino（上）.md)
+- [Arduino 极速入门教程——两篇文章让你会用Arduino(下)](./嵌入式/Arduino/Arduino极速入门教程——两篇文章让你会用Arduino（下）.md)
+
+#### C/C++
+
+- [C 和 C++ 在参数调用上的区别](./嵌入式/C_CPP/C和C++在参数调用上的区别.md)
+- [C 的 main 函数解析](./嵌入式/C_CPP/C的main函数解析.md)
+- [malloc 的强制转换](./嵌入式/C_CPP/malloc的强制转换.md)
+
+#### 硬件设计
+
+- [如何使用 KiCAD 画扩展板](./嵌入式/硬件设计/如何使用KiCAD画扩展板.md)
+- [三极管（BJT）与场效应管（FET）的比较](./嵌入式/硬件设计/三极管（BJT）与场效应管（FET）的比较.md)
 
 ### 桌面端
 
@@ -55,8 +67,10 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 
 ### 算法
 
-- [如何假装用C语言为嵌入式写一个新语言](./算法/如何假装用C语言为嵌入式写一个新语言.md)
-- [通过报文对嵌入式进行编程举例](./算法/通过报文对嵌入式进行编程举例.md)
+#### 自制脚本语言
+
+- [如何假装用C语言为嵌入式写一个新语言](./算法/自制脚本语言/如何假装用C语言为嵌入式写一个新语言.md)
+- [通过报文对嵌入式进行编程举例](./算法/自制脚本语言/通过报文对嵌入式进行编程举例.md)
 
 ### 杂谈
 
