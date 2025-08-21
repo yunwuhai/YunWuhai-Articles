@@ -1,8 +1,14 @@
+---
+作者: 云雾海 / yunwuhai
+邮箱: yunwuhai@outlook.com
+知识共享许可协议: CC-BY-SA 4.0
+github: https://github.com/yunwuhai/YunWuhai-Articles
+---
+
+
 # 云雾海的个人笔记
 
-**作者: 云雾海 / yunwuhai**
-**邮箱: yunwuhai@outlook.com**
-**发布仓库：[github](https://github.com/yunwuhai/YunWuhai-Articles)**
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
