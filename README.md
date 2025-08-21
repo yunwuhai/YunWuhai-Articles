@@ -21,6 +21,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
     - [嵌入式](#嵌入式)
     - [桌面端](#桌面端)
     - [网络安全](#网络安全)
+    - [算法](#算法)
     - [杂谈](#杂谈)
     - [解决方案](#解决方案)
   - [开源协议](#开源协议)
@@ -47,6 +48,10 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 ### 桌面端
 
 ### 网络安全
+
+### 算法
+
+- [如何假装用C语言为嵌入式写一个新语言](./算法/如何假装用C语言为嵌入式写一个新语言.md)
 
 ### 杂谈
 
