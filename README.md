@@ -46,6 +46,8 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [如何使用 KiCAD 画扩展板](./嵌入式/如何使用KiCAD画扩展板.md)
 - [C 的 main 函数解析](./嵌入式/C的main函数解析.md)
 - [malloc 的强制转换](./嵌入式/malloc的强制转换.md)
+- [Arduino 极速入门教程——两篇文章让你会用Arduino(上)](./嵌入式/Arduino极速入门教程——两篇文章让你会用Arduino（上）.md)
+- [Arduino 极速入门教程——两篇文章让你会用Arduino(下)](./嵌入式/Arduino极速入门教程——两篇文章让你会用Arduino（下）.md)
 
 ### 桌面端
 
