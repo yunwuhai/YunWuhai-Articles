@@ -45,6 +45,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [C 和 C++ 在参数调用上的区别](./嵌入式/C和C++在参数调用上的区别.md)
 - [如何使用 KiCAD 画扩展板](./嵌入式/如何使用KiCAD画扩展板.md)
 - [C 的 main 函数解析](./嵌入式/C的main函数解析.md)
+- [malloc 的强制转换](./嵌入式/malloc的强制转换.md)
 
 ### 桌面端
 
@@ -59,6 +60,8 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 
 *杂谈内容不涉及具体的技术，主要是一些个人的感悟、心得体会，或是一些有趣的事情。*
 
+- [我的瞎搞开发工具集以及对一些工具的比较](./杂谈/我的瞎搞开发工具集以及对一些工具的比较.md) 
+
 ### 解决方案
 
 *解决方案为作者开发学习过程中遇到的一些问题，在解决了该问题后进行的笔记记录，内容仅适用于解决特定问题。*
@@ -66,6 +69,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [Arduino 通过 USB 转 TTL 无 BootLoader（引导程序）烧录程序的两种办法](./解决方案/Arduino通过USB转TTL无BootLoader（引导程序）烧录程序的两种办法.md)
 - [3D 打印机打印中途停止且显示挤出头温度过低](./解决方案/3D打印机打印中途停止且显示挤出头温度过低.md)
 - [使用 CCS 导出 TXT 用于 BSL 烧录](./解决方案/使用CCS导出TXT用于BSL烧录.md)
+- [如何在vim中使用系统剪贴板](./解决方案/如何在vim中使用系统剪贴板.md)
 
 ---
 
