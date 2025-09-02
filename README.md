@@ -23,6 +23,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
       - [C/C++](#cc)
       - [硬件设计](#硬件设计)
     - [桌面端](#桌面端)
+      - [C#](#c)
     - [网络安全](#网络安全)
     - [算法](#算法)
       - [自制脚本语言](#自制脚本语言)
@@ -55,6 +56,9 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [C 和 C++ 在参数调用上的区别](./嵌入式/C_CPP/C和C++在参数调用上的区别.md)
 - [C 的 main 函数解析](./嵌入式/C_CPP/C的main函数解析.md)
 - [malloc 的强制转换](./嵌入式/C_CPP/malloc的强制转换.md)
+- [C 语言可以使用变量定义数组](./嵌入式/C_CPP/C语言可以使用变量定义数组.md)
+- [C 宏定义连接符#和##及其应用](./嵌入式/C_CPP/C宏定义连接符#和##及其应用.md)
+- [深度底层剖析，你所不知道的 printf](./嵌入式/C_CPP/深度底层剖析，你所不知道的printf.md)
 
 #### 硬件设计
 
@@ -62,6 +66,10 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [三极管（BJT）与场效应管（FET）的比较](./嵌入式/硬件设计/三极管（BJT）与场效应管（FET）的比较.md)
 
 ### 桌面端
+
+#### C#
+
+- [Winform 自定义一个圆形按钮](./桌面端/CSharp/Winform自定义一个圆形按钮.md)
 
 ### 网络安全
 
@@ -76,7 +84,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 
 *杂谈内容不涉及具体的技术，主要是一些个人的感悟、心得体会，或是一些有趣的事情。*
 
-- [我的瞎搞开发工具集以及对一些工具的比较](./杂谈/我的瞎搞开发工具集以及对一些工具的比较.md) 
+- [我的瞎搞开发工具集以及对一些工具的比较](./杂谈/我的瞎搞开发工具集以及对一些工具的比较.md)
 
 ### 解决方案
 
@@ -86,6 +94,8 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [3D 打印机打印中途停止且显示挤出头温度过低](./解决方案/3D打印机打印中途停止且显示挤出头温度过低.md)
 - [使用 CCS 导出 TXT 用于 BSL 烧录](./解决方案/使用CCS导出TXT用于BSL烧录.md)
 - [如何在vim中使用系统剪贴板](./解决方案/如何在vim中使用系统剪贴板.md)
+- [如何在STM32CubeIDE中使用CMSIS DSP库（官方文档地址）](./解决方案/如何在STM32CubeIDE中使用CMSIS%20DSP库（官方文档地址）.md)
+- [Git 笔记](./解决方案/Git笔记.md)
 
 ---
 
