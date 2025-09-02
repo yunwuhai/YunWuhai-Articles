@@ -26,6 +26,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
       - [C#](#c)
     - [网络安全](#网络安全)
     - [算法](#算法)
+      - [题目](#题目)
       - [自制脚本语言](#自制脚本语言)
     - [杂谈](#杂谈)
     - [解决方案](#解决方案)
@@ -59,6 +60,8 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [C 语言可以使用变量定义数组](./嵌入式/C_CPP/C语言可以使用变量定义数组.md)
 - [C 宏定义连接符#和##及其应用](./嵌入式/C_CPP/C宏定义连接符#和##及其应用.md)
 - [深度底层剖析，你所不知道的 printf](./嵌入式/C_CPP/深度底层剖析，你所不知道的printf.md)
+- [STM32CubeMX GCC工程Makefile内容详解](./嵌入式/C_CPP/STM32CubeMX%20GCC工程Makefile内容详解.md)
+- [声明和定义](./嵌入式/C_CPP/声明和定义.md)
 
 #### 硬件设计
 
@@ -74,6 +77,14 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 ### 网络安全
 
 ### 算法
+
+#### 题目
+
+- [算法：最大子列和问题](./算法/题目/算法：最大子列和问题.md)
+- [算法：Maximum Subsequence Sum](./算法/题目/算法：Maximum%20Subsequence%20Sum.md)
+- [算法：二分查找](./算法/题目/算法：二分查找.md)
+- [算法：两数之和（哈希算法）](./算法/题目/算法：两数之和（哈希算法）.md)
+- [算法：两数之和（暴力枚举）](./算法/题目/算法：两数之和（暴力枚举）.md)
 
 #### 自制脚本语言
 
@@ -96,6 +107,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 - [如何在vim中使用系统剪贴板](./解决方案/如何在vim中使用系统剪贴板.md)
 - [如何在STM32CubeIDE中使用CMSIS DSP库（官方文档地址）](./解决方案/如何在STM32CubeIDE中使用CMSIS%20DSP库（官方文档地址）.md)
 - [Git 笔记](./解决方案/Git笔记.md)
+- [Qt Creator打开时报错python27.dll和报错应用程序错误解决办法（网址）](./解决方案/Qt%20Creator打开时报错python27.dll和报错应用程序错误解决办法（网址）.md)
 
 ---
 
