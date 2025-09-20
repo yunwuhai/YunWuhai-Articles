@@ -22,6 +22,7 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
       - [Arduino](#arduino)
       - [C/C++](#cc)
       - [硬件设计](#硬件设计)
+      - [USB](#usb)
     - [桌面端](#桌面端)
       - [C#](#c)
     - [网络安全](#网络安全)
@@ -67,6 +68,10 @@ github: https://github.com/yunwuhai/YunWuhai-Articles
 
 - [如何使用 KiCAD 画扩展板](./嵌入式/硬件设计/如何使用KiCAD画扩展板.md)
 - [三极管（BJT）与场效应管（FET）的比较](./嵌入式/硬件设计/三极管（BJT）与场效应管（FET）的比较.md)
+
+#### USB 
+
+- [USB 基础概念](./嵌入式/USB/USB基础概念.md)
 
 ### 桌面端
 
